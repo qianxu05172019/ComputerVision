@@ -1,0 +1,10 @@
+# Data files (too large for GitHub)
+*.npy
+*.h5ad
+*.parquet
+images_data/
+
+# System files
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
